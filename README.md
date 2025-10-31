@@ -19,7 +19,7 @@
 
 ### Основные компоненты
 
-```typescript
+```typescript```
 // Декларации стилей
 const evenDecoration  // Стиль для четных чисел (синий)
 const oddDecoration   // Стиль для нечетных чисел (розовый)
